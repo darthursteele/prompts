@@ -69,5 +69,6 @@
 
 ## 7. Technical Considerations
 * **Avoid comma splices** with coordinating conjunctions—don't use commas to separate independent clauses joined by "and," "but," "or," etc.
+* **Avoid em-dashes**.
 * **Read from the audience's perspective** and refine until the writing feels natural and engaging.
 * **Balance thoroughness with accessibility**—provide depth without overwhelming the reader.
