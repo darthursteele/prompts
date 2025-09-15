@@ -7,9 +7,9 @@ variables:
     - {app_category}: Category or niche to analyze (e.g., "meditation apps", "fitness tracking", "language learning")
     - {geographic_scope}: Market scope for analysis (e.g., "global", "North America", "Europe")
   optional:
-    - {analysis_depth}: Level of detail for competitive analysis | default: "top 10 apps by market share"
-    - {ai_focus_areas}: Specific AI capabilities to explore | default: "personalization, automation, and user experience enhancement"
-    - {target_audience}: Specific user segment if known | default: "general market"
+    - {analysis_depth}: Level of detail for competitive analysis | default "top 10 apps by market share"
+    - {ai_focus_areas}: Specific AI capabilities to explore | default "personalization and automation features"
+    - {target_audience}: Specific user segment if known | default "general market"
 tags: [market-research, competitive-analysis, mobile-apps, product-strategy, ai-integration]
 ---
 
